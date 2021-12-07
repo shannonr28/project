@@ -4,3 +4,4 @@ I will need a big grant to pay for this.
 Adding the fourth line 
 Five lines
 Day two of learning git command 
+Oh wow last week of class 
